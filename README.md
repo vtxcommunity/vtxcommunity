@@ -1,3 +1,6 @@
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/LordMipaz)
+
+![vtxcommunity GitHub stats](https://github-readme-stats.vercel.app/api?username=vtxcommunity&show_icons=true&theme=radical)
 - 👋 Hi, I’m Fort
 - 🌎 I'm from Indonesia
 - 🌱 I’m currently learning Nodejs, Python, and Html
