@@ -5,7 +5,7 @@
 - 🌎 I'm from Indonesia
 - 🌱 I’m currently learning Nodejs, Python, and Html
 - 💓 My Hobbies are playing game, programming, and bycling
-- 📫 You can send an email if needed to fortdev.kun@gmail.com
+- 📫 You can send an email if needed to fort@cronime.my.id
 
 ![Visitor Count](https://profile-counter.glitch.me/vtxcommunity/count.svg)
 <!---
